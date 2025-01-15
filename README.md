@@ -20,8 +20,8 @@ This project implements a backend notification system to handle real-time, sched
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo.git
-   cd your-repo
+   https://github.com/avnishrai569/Distributed-Notification-System.git
+   cd Distributed-Notification-System
 
  ##Install dependencies:
 
